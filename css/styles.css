@@ -11201,3 +11201,25 @@ body {
 .footer {
   padding: 5rem 0;
 }
+
+#carouselExampleControls{
+  width: 770px;
+  margin: 120px;
+  height: 700px;
+}
+@media (max-width: 768px) {
+  #carouselExampleControls {
+      max-width: 120%;
+      height: auto;
+      position: relative;
+      right:147px;
+  }
+}        
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+ul li {
+  margin-bottom: 10px;
+}
