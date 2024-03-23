@@ -11209,7 +11209,7 @@ body {
 }
 @media (max-width: 768px) {
   #carouselExampleControls {
-      max-width: 90%;
+      max-width: 98%;
       height: auto;
       position: relative;
       right:108px;
