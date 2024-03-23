@@ -11209,12 +11209,11 @@ body {
 }
 @media (max-width: 768px) {
   #carouselExampleControls {
-      max-width: 120%;
+      max-width: 90%;
       height: auto;
       position: relative;
-      right:147px;
-  }
-}        
+      right:107px;
+  }      
 ul {
   list-style-type: none;
   padding-left: 0;
