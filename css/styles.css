@@ -11209,10 +11209,10 @@ body {
 }
 @media (max-width: 768px) {
   #carouselExampleControls {
-      max-width: 98%;
+      max-width: 100%;
       height: auto;
       position: relative;
-      right:108px;
+      right:112px;
   }      
 ul {
   list-style-type: none;
